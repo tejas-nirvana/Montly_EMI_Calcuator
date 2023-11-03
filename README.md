@@ -9,14 +9,15 @@ Built a monthly EMI calculator.
 ### Skills Learnt
 - Microsoft Excel PMT function
 - Terminologies related to loans such as:-
-    • Total cost of loan is the total amount consisting of the Loan principal amount and the total interest amount one has to pay to repay his loan fully.
+    - The total cost of the loan is the total amount consisting of the Loan principal amount and the total interest amount one has to pay to repay his loan fully.
        Formula ---> Total cost of loan = Easy Monthly Installment(EMI) * ((Loan payment period(in Years) * 12)
-    • Total Interest Amount is the amount one will pay as interest on his principal loan amount.
+    - Total Interest Amount is the amount one will pay as interest on his principal loan amount.
        Formula ---> Total interest amount = Total cost of loan – Loan amount
 
 #### Insights found
 - Monthly EMI, Total cost of loan, and Total interest amount depend on Bank interest rate and Loan payment period(in years).
 - | Monthly EMI | Loan payment period (in years) | Monthly EMI | Total cost of loan |Total Interest Amount |
+  |---|---|---|---|---|
   | Higher      | Lower                          | Higher      | Lower              | Lower                |
   | Lower       | Higher                         | lower       | Higher             | Higher               |
   | Medium      | Medium                         | Much lower  | Much higher        | Much higher          |
